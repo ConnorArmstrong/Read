@@ -2,13 +2,13 @@
 ## Developed by the Do it for the Fish team, in collaboration with the Flying Fish Technology Team
 
 ### Description 
-This project is a simulation of an underwater environmet using VR. the simulation is built using Unreal Engine, and the main point of the project is to use real data, to educate people about the reefs. Currently, this version of the project only has one environment model loaded. The environment model was built using the photogrammetry software Reality Capture and images of the environment. The purpose of this project is to be deployed in environments like an aquarium in order to educate users about the reef and fish. To download the full version of this code go to this link : https://www.dropbox.com/scl/fi/jqwojqiaae1a42oq8cimz/project17.zip?rlkey=ttnc49c82u7761qk4l3l5w2z8&st=e8uncuju&dl=0
+This project is a simulation of an underwater environmet using VR. the simulation is built using Unreal Engine, and the main point of the project is to use real data, to educate people about the reefs. Currently, this version of the project only has one environment model loaded. The environment model was built using the photogrammetry software Reality Capture and supplied images of the environment courtesy of Flying Fish Technologies. The intended purpose of this project is for it to be deployed in environments like an aquarium in order to educate users about the reef, fish and coral. To download the full version of this code go to this link : https://www.dropbox.com/scl/fi/jqwojqiaae1a42oq8cimz/project17.zip?rlkey=ttnc49c82u7761qk4l3l5w2z8&st=e8uncuju&dl=0. Please note that the file size is several gigabytes.
 
 ### Requirements to run this program
 - Unreal Engine (version 5.4 or later) link : https://www.unrealengine.com/en-US/download
 - Meta Quest Link app : https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-rift-s/install-app-for-link/
 - Meta Quest VR headset
-- SteamVR : https://store.steampowered.com/about/
+- SteamVR : https://store.steampowered.com/about/ For an alternative approach
 
 If you are having trouble installing Unreal Engine watch this guide here : https://www.youtube.com/watch?v=ODxm8iuOVak
 
